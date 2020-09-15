@@ -22,9 +22,9 @@
        (Please Use Fork+Pull Requests !!! Correctness is the most important!)
    4.  TAB = 4 space.  set ts=4 in vim
    5.  Graph的输出格式为 [Graphviz](http://www.graphviz.org/) Dot格式.
-   	(the output format of the graph is in dot of graphviz.)
-   	eg:
-   	![demograph](demo_graph.png)
+      	(the output format of the graph is in dot of graphviz.)
+      	eg:
+      	![demograph](demo_graph.png)
 
 #### 已实现 ( Implemented ):
 
@@ -104,3 +104,9 @@
 #### 支持此项目 ( Donations ) :     
 ![donate](donate_alg.png)          
 欢迎使用支付宝扫描上面的二维码，对该项目进行捐赠。捐赠款项将用于持续优化补全及完善。 
+
+
+
+
+
+zhangmuru
